@@ -4,7 +4,9 @@ This is my Desk Organiser that is custom made to fit all my stuff, with labels, 
 
 I created this as my desk is, well, you guessed it, messy..... 
 
-My images won't upload, so please see all the screenshots in my repo... Sorry!
+My images won't upload, so please see all the screenshots in my repo... but I have tried: Sorry!
+
+<img href="https://github.com/SmartSparkCoding/desk-organiser/blob/main/Screenshot%202026-03-14%20184244.png" alt="my complete design">
 
 I also don't know how to add a table in a readme file, but here is my BOM:
 
