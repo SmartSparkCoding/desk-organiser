@@ -6,7 +6,7 @@ I created this as my desk is, well, you guessed it, messy.....
 
 My images won't upload, so please see all the screenshots in my repo... but I have tried: Sorry!
 
-<img src="[https://github.com/SmartSparkCoding/desk-organiser/blob/main/Screenshot%202026-03-14%20184244.png](https://github.com/SmartSparkCoding/desk-organiser/blob/main/Screenshot%202026-03-15%20202701.png)" alt="my complete design">
+<img src="https://github.com/SmartSparkCoding/desk-organiser/blob/main/Screenshot%202026-03-15%20202701.png" alt="my complete design">
 
 I also don't know how to add a table in a readme file, but here is my BOM:
 
